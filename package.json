@@ -3,6 +3,16 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/yaellizarraga/typescript-sandbox.git",
-  "author": "Yael Lizarraga",
-  "license": "MIT"
+  "author": "yaellizarraga <yaellizarraga@outlook.es>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "ts-node": "^9.0.0",
+    "tslint": "^6.1.3",
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "mariadb": "^2.4.2",
+    "mikro-orm": "^3.6.15"
+  }
 }
